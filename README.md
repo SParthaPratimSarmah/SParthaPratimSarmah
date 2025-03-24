@@ -1,12 +1,3 @@
-<h1 align="center"># 🔬 Research. Innovate. Transform. 🚀 </h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SParthaPratimSarmah&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-## 🚀 About Me  
 Welcome! I'm **Partha Pratim Sarmah**, an M.Tech student at **IIIT Guwahati**, deeply passionate about **Machine Learning**, **Artificial Intelligence**, **UAV**, **Communication and Wearable Technology**.
 You'll find my **research projects, experimental code, and data-driven explorations**. I'm always open to discussions, collaborations, and new challenges in **AI for healthcare, UAV communications, and interdisciplinary research**.  
 
