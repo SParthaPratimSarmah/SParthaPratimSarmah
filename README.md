@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me  
-Welcome! I'm **Partha Pratim Sarmah**, an M.Tech student at **IIIT Guwahati**, deeply passionate about **Machine Learning, Artificial Intelligence, UAV, Communication and Wearable Technology.
+Welcome! I'm **Partha Pratim Sarmah**, an M.Tech student at **IIIT Guwahati**, deeply passionate about **Machine Learning**, **Artificial Intelligence**, **UAV**, **Communication and Wearable Technology**.
 You'll find my **research projects, experimental code, and data-driven explorations**. I'm always open to discussions, collaborations, and new challenges in **AI for healthcare, UAV communications, and interdisciplinary research**.  
 
 📩 **Let's connect & explore new ideas together!** 🚀  
