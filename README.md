@@ -4,7 +4,7 @@ You'll find my **research projects, experimental code, and data-driven explorati
 📩 **Let's connect & explore new ideas together!** 🚀  
 
 ---
-## ![image](https://github.com/user-attachments/assets/ffb48007-50d8-4349-aa22-9f06d6afaa2e) Publications:
+## Publications:
 
 ### On Predicting Emotion From Commercial Smartwatch - A Big Data Narrative
 On Predicting Emotion From Commercial Smartwatch - A Big Data Narrative
