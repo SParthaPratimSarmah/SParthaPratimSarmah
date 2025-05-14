@@ -4,6 +4,18 @@ You'll find my **research projects, experimental code, and data-driven explorati
 📩 **Let's connect & explore new ideas together!** 🚀  
 
 ---
+## ![image](https://github.com/user-attachments/assets/ffb48007-50d8-4349-aa22-9f06d6afaa2e) Publications:
+
+### On Predicting Emotion From Commercial Smartwatch - A Big Data Narrative
+On Predicting Emotion From Commercial Smartwatch - A Big Data Narrative
+2025 IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation · May 9, 2025
+
+**About**
+Smart wearable devices such as smartwatches and smart bands are all-pervasive nowadays. They are accompanied by various sensors like heart rate monitors, oximetry sensors, ambient light and temperature sensors, etc. that collect different physiological data about the individuals while wearing. Such data can effectively be used to detect the activities of the user. Here, one relevant intriguing question arises: Is it feasible to predict the emotional status of an individual by utilizing such physiological data from such devices? To address this question, no such work utilizes commercial smartwatches. Therefore, to fill this gap, in this work, we analyze and predict emotions by utilizing the physiological data collected by the commercial Fitbit smartwatch. Here, we have utilized the Lifesnaps Fitbit dataset, a large public dataset of size 9.72 GB that contains both physiological sensor data and psychological survey data collected from 71 volunteers from different demographic areas using commercially available Fitbit smartwatches between May 2021 and January 2022. Here we investigate the correlation between emotional state and physiological parameters using data collected from the Lifesnaps dataset. We perform comprehensive data pre-processing such as data cleaning, data imputation, and scaling to ensure the data integration and usability of the dataset. We apply various non-neural machine learning algorithms (Support Vector Machine, Logistic Regression, Decision Trees, LightGBM, XGBoost, and Random Forest) and achieve an accuracy of up to 78.75% in predicting emotions. We further enhanced the performance of the prediction through efficiently hyper-tuning two neural network approaches (i.e., Feedforward neural network, and BiLSTM) and achieved a maximum accuracy of 97% in the Feedforward neural network. Our experimental evaluation shows a significant potential in commercial smartwatches for mental health and emotion detection.
+
+**Read More** : https://ieeexplore.ieee.org/document/10984709 
+
+
 ## 💡 Featured Projects  
 Here are some of my notable projects:
 
