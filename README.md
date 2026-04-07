@@ -7,8 +7,10 @@ You'll find my **research projects, experimental code, and data-driven explorati
 ## Publications:
 
 ### Poster Paper: 
-#### NIRVANA: Nature-Inspired Resilience for UAV Agents via Distributed CoordiNAtion (Accepted for the Comsnet 2026 January Session.)
-
+#### NIRVANA: Nature-Inspired Resilience for UAV Agents via Distributed CoordiNAtion
+#### About: 
+Unmanned aerial vehicles (UAVs) serve as agile network providers for end-to-end wireless communication to ground users, including IoT devices, mobile users, and sensors. While most existing approaches rely on centralized control architectures, such systems are prone to single points of failure, scalability issues, and communication bottlenecks that limit adaptability in dynamic environments. We present a distributed deployment framework for multi-UAV networks, called NIRVANA, which combines message-passing-based cluster formation with nature-inspired resilience mechanisms. In NIRVANA, UAVs exchange local information through message passing to enable decentralized coordination, while resilience is enhanced by maximizing recurrent subnetworks, or network motifs, that have been shown to improve stability and fault tolerance in complex systems. Through a two-phase optimization process, the system jointly maximizes ground coverage and motif-based resilience, ensuring balanced performance under dynamic conditions. Results from extensive simulations demonstrate that NIRVANA achieves 20-36% higher robustness and 4-8% greater user coverage compared to state-of-the-art baseline across varying UAV counts.
+**Read More** : https://ieeexplore.ieee.org/abstract/document/11418271
 
 ### Conference Paper: 
 #### On Predicting Emotion From Commercial Smartwatch - A Big Data Narrative
