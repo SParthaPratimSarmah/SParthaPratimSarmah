@@ -1,72 +1,58 @@
+<div align="center">
+
 # Partha Pratim Sarmah
 
-JRF Student, Indian Institute of Information Technology (IIIT) Guwahati
+**JRF Student · Indian Institute of Information Technology (IIIT) Guwahati**
 
-Research interests: Machine Learning, Artificial Intelligence, Unmanned Aerial Vehicles (UAV), Communication Systems, and Wearable Technology.
+Machine Learning · Artificial Intelligence · UAV Communications · Wearable Technology
+
+[![Email](https://img.shields.io/badge/Email-sarmahpranab90%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sarmahpranab90@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Partha%20Pratim%20Sarmah-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/partha-pratim-sarmah/)
+[![GitHub](https://img.shields.io/badge/GitHub-SParthaPratimSarmah-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SParthaPratimSarmah)
+[![Instagram](https://img.shields.io/badge/Instagram-partha.pratim.sarmah-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/partha.pratim.sarmah/)
+
+</div>
+
+---
+
+### About
 
 This repository serves as a portfolio of research projects, experimental implementations, and data-driven work. Open to discussions and collaborations in AI for healthcare, UAV communications, and related interdisciplinary research areas.
 
----
-
-## Publications
-
-### Poster Paper
-**NIRVANA: Nature-Inspired Resilience for UAV Agents via Distributed Coordination**
-
-Unmanned aerial vehicles (UAVs) serve as agile network providers for end-to-end wireless communication to ground users, including IoT devices, mobile users, and sensors. Most existing approaches rely on centralized control architectures, which are prone to single points of failure, scalability limitations, and communication bottlenecks that constrain adaptability in dynamic environments.
-
-This work presents NIRVANA, a distributed deployment framework for multi-UAV networks that combines message-passing-based cluster formation with nature-inspired resilience mechanisms. UAVs exchange local information through message passing to enable decentralized coordination, while resilience is enhanced by maximizing recurrent subnetworks, or network motifs, shown to improve stability and fault tolerance in complex systems. A two-phase optimization process jointly maximizes ground coverage and motif-based resilience, ensuring balanced performance under dynamic conditions. Simulation results demonstrate 20–36% higher robustness and 4–8% greater user coverage compared to state-of-the-art baselines across varying UAV counts.
-
-Publication: https://ieeexplore.ieee.org/abstract/document/11418271
+**Research Focus:**
+![ML](https://img.shields.io/badge/-Machine%20Learning-4B8BBE?style=flat-square)
+![AI](https://img.shields.io/badge/-Artificial%20Intelligence-4B8BBE?style=flat-square)
+![UAV](https://img.shields.io/badge/-UAV%20Communications-4B8BBE?style=flat-square)
+![Wearables](https://img.shields.io/badge/-Wearable%20Technology-4B8BBE?style=flat-square)
+![Healthcare](https://img.shields.io/badge/-AI%20for%20Healthcare-4B8BBE?style=flat-square)
 
 ---
 
-### Conference Paper
-**On Predicting Emotion From Commercial Smartwatch — A Big Data Narrative**
+### Publications
 
-Published at the 2025 IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation, May 2025.
+| Title | Type | Venue |
+|---|---|---|
+| [NIRVANA: Nature-Inspired Resilience for UAV Agents via Distributed Coordination](https://ieeexplore.ieee.org/abstract/document/11418271) | Poster Paper | IEEE |
+| [On Predicting Emotion From Commercial Smartwatch — A Big Data Narrative](https://ieeexplore.ieee.org/document/10984709) | Conference Paper | IEEE ICATMSI 2025 |
+| [On Mental Health Monitoring Using Commercial Wearable Devices and Machine Intelligence](https://lnkd.in/gJiKXb2q) | Book Chapter | *Machine Learning in Healthcare*, De Gruyter (Scopus) |
 
-Publication: https://ieeexplore.ieee.org/document/10984709
-Repository: https://github.com/SParthaPratimSarmah/On-Predicting-Emotion-Detection-Using-Commercially-available-Smartwatch.git
-
----
-
-### Book Chapter
-**On Mental Health Monitoring Using Commercial Wearable Devices and Machine Intelligence**
-
-Published in *Machine Learning in Healthcare: Data-Driven Decisions, Predictive Modelling and Personalised Medicine*, Walter de Gruyter GmbH & Co KG (Scopus indexed).
-
-Publication: https://lnkd.in/gJiKXb2q
+Code for the smartwatch emotion-prediction study: [Repository](https://github.com/SParthaPratimSarmah/On-Predicting-Emotion-Detection-Using-Commercially-available-Smartwatch.git)
 
 ---
 
-## Featured Projects
+### Featured Projects
 
-### Suriya — Music Application with Local Song Repository
-A music application built with Java, Kotlin, and XML, integrating Firebase for database management and supporting local song playback.
-
-Repository: https://github.com/SParthaPratimSarmah/Suriya
-
-### Library Management System
-A full-stack library management system with an HTML/CSS frontend and a Python, Flask, and SQLAlchemy backend, deployed on Apache Tomcat with MySQL for data management.
-
-Repository: https://github.com/SParthaPratimSarmah/Library_Management_System
-
-### Guest House Booking System
-A reservation and management system for guest house bookings, providing a streamlined interface for both guests and administrators.
-
-Repository: https://github.com/SParthaPratimSarmah/Guest_House_Booking_System
-
-### Structured Multilingual Translation and Validation Platform
-A platform for Assamese-to-English translation supporting distinct translator, validator, and administrator roles for a structured workflow.
-
-Repository: https://github.com/SParthaPratimSarmah/Structured_Multilingual_Translation_and_Validation_Platform
+| Project | Stack | Description |
+|---|---|---|
+| [Suriya](https://github.com/SParthaPratimSarmah/Suriya) | Java · Kotlin · XML · Firebase | Music application with local song playback and Firebase-backed data management |
+| [Library Management System](https://github.com/SParthaPratimSarmah/Library_Management_System) | Python · Flask · SQLAlchemy · MySQL · Apache Tomcat | Full-stack library management system with web frontend and relational backend |
+| [Guest House Booking System](https://github.com/SParthaPratimSarmah/Guest_House_Booking_System) | Web Application | Reservation and management platform for guest house bookings |
+| [Structured Multilingual Translation and Validation Platform](https://github.com/SParthaPratimSarmah/Structured_Multilingual_Translation_and_Validation_Platform) | Web Application | Assamese-to-English translation platform with translator, validator, and admin roles |
 
 ---
 
-## Contact
+<div align="center">
 
-- Email: sarmahpranab90@gmail.com
-- LinkedIn: https://www.linkedin.com/in/partha-pratim-sarmah/
-- GitHub: https://github.com/SParthaPratimSarmah
-- Instagram: https://www.instagram.com/partha.pratim.sarmah/
+*Feel free to explore the repositories above and reach out for collaboration.*
+
+</div>
