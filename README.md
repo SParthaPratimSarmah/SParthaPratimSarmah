@@ -32,7 +32,7 @@ This repository serves as a portfolio of research projects, experimental impleme
 
 | Title | Type | Venue |
 |---|---|---|
-| [NIRVANA: Nature-Inspired Resilience for UAV Agents via Distributed Coordination](https://ieeexplore.ieee.org/abstract/document/11418271) | Poster Paper | IEEE |
+| [NIRVANA: Nature-Inspired Resilience for UAV Agents via Distributed Coordination](https://ieeexplore.ieee.org/abstract/document/11418271) | Poster Paper | IEEE COMSNET 2027|
 | [On Predicting Emotion From Commercial Smartwatch — A Big Data Narrative](https://ieeexplore.ieee.org/document/10984709) | Conference Paper | IEEE ICATMSI 2025 |
 | [On Mental Health Monitoring Using Commercial Wearable Devices and Machine Intelligence](https://lnkd.in/gJiKXb2q) | Book Chapter | *Machine Learning in Healthcare*, De Gruyter (Scopus) |
 
